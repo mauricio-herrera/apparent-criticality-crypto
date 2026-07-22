@@ -5,9 +5,7 @@ authors:
   - family-names: "Herrera-Marín"
     given-names: "Mauricio"
     affiliation: "Universidad del Desarrollo, Santiago, Chile"
-    orcid: "https://orcid.org/0000-0000-0000-0000"
 year: 2026
 version: "1.0.0"
-doi: 10.5281/zenodo.XXXXXXX
 license: MIT
-repository-code: "https://github.com/mherrera-udd/apparent-criticality-crypto"
+repository-code: "https://github.com/mauricio-herrera/apparent-criticality-crypto"
